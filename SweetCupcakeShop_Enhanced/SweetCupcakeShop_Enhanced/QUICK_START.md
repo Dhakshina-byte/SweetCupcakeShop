@@ -6,12 +6,12 @@ Your Sweet Cupcake Shop now has a **complete Point of Sale (POS) system**!
 
 ### ✨ New Features
 
-1. **Billing System** - Available to both Cashiers AND Managers
-2. **Expanded Product Categories** - Now includes Beverages and Combos
-3. **Professional Receipts** - Auto-generated, formatted receipts
-4. **Transaction Tracking** - All sales are recorded
-5. **Multiple Payment Methods** - Cash, Card, Mobile Pay
-6. **Discount Support** - Apply discounts to transactions
+1. **Billing System** 
+2. **Expanded Product Categories** 
+3. **Professional Receipts** 
+4. **Transaction Tracking** 
+5. **Multiple Payment Methods**
+6. **Discount Support** 
 
 ---
 
