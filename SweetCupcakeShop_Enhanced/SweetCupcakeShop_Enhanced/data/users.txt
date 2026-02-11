@@ -1,0 +1,2 @@
+manager,manager123,Admin Manager,MANAGER
+cashier,cashier123,Jane Cashier,CASHIER

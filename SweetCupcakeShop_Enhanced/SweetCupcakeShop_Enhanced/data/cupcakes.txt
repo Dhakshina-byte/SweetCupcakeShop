@@ -1,0 +1,15 @@
+C001|Classic Vanilla|Vanilla|CLASSIC|3.5|Moist vanilla cupcake with vanilla buttercream
+C002|Rich Chocolate|Chocolate|CLASSIC|3.75|Decadent chocolate cupcake with chocolate ganache
+C003|Red Velvet Delight|Red Velvet|CLASSIC|4.0|Classic red velvet with cream cheese frosting
+C004|Strawberry Bliss|Strawberry|CLASSIC|3.5|Fresh strawberry cupcake with strawberry cream
+C005|Pumpkin Spice|Pumpkin|SEASONAL|4.25|Seasonal pumpkin spice with cinnamon frosting
+C006|Winter Snowflake|Peppermint|SEASONAL|4.5|Holiday peppermint cupcake with white frosting
+C007|Wedding Elegance|Almond|CUSTOM|6.0|Custom wedding cupcake - contact for personalization
+C008|Birthday Burst|Funfetti|CUSTOM|5.5|Colorful birthday cupcake with sprinkles
+C009|GF Vanilla Dream|Vanilla|GLUTEN_FREE|4.75|Gluten-free vanilla cupcake - same great taste
+C010|GF Chocolate Joy|Chocolate|GLUTEN_FREE|5.0|Gluten-free rich chocolate cupcake
+C011|Hot Cocoa|Chocolate|BEVERAGE|3.0|Rich hot chocolate drink
+C012|Iced Vanilla Latte|Vanilla|BEVERAGE|3.5|Iced vanilla latte
+C013|Cupcake & Coffee Duo|Mixed|COMBO|6.5|Any cupcake plus a hot or cold coffee
+C014|Sweet Box Set|Mixed|COMBO|12.0|Box of 4 cupcakes plus 2 beverages
+C015|ghef|fefe|SEASONAL|54.0|fefs
